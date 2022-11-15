@@ -8,7 +8,7 @@
 </head>
 <body>
     <header class="cabecalho">
-        <h1>M3 Telecom</h1>
+        <h1>M3 TELECOM</h1>
         <h2>Conectando Você ao Mundo!</h2>
     </header>
     <main class="principal">
